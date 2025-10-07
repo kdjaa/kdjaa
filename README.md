@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Khadiga Ahmed
 
-🎓 AI Engineer & Data Scienctist |💡 Passionate about Machine Learning, Computer Vision, and NLP
+🎓 AI Engineer & Data Scientist |💡 Passionate about Machine Learning, Computer Vision, and NLP
 
 ---
 

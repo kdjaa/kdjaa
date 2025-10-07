@@ -26,7 +26,7 @@ Git • GitHub • Jupyter Notebook • VS Code • Google Colab • Docker (int
 ---
 
 ### 🚀 Featured Projects
-- 🩺 [Diabetes Management Chatbot](link)
+- 🩺 [Books Recommendations Project](https://github.com/kdjaa/movie-recommender-project)
 - 
 - 
 - 

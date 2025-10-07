@@ -26,8 +26,8 @@ Git • GitHub • Jupyter Notebook • VS Code • Google Colab • Docker (int
 ---
 
 ### 🚀 Featured Projects
-- 🩺 [Books Recommendations Project](https://github.com/kdjaa/movie-recommender-project)
-- [Lung X-Ray Classifier] (https://github.com/kdjaa/lung-xray-classifier)
+- [Books Recommendations Project](https://github.com/kdjaa/movie-recommender-project)
+- [Lung X-Ray Classifier](https://github.com/kdjaa/lung-xray-classifier)
 - 
 - 
 

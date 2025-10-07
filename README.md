@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**kdjaa/kdjaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Khadiga Ahmed
 
-Here are some ideas to get you started:
+🎓 AI Engineer & Data Scienctist |💡 Passionate about Machine Learning, Computer Vision, and NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Machine Learning & Deep Learning:**  
+TensorFlow • Keras • Scikit-Learn •  Transfer Learning • Model Evaluation & Tuning  
+
+**Computer Vision:**  
+OpenCV • Roboflow • Object Detection (YOLO, EfficientNet, CNNs) • Image Classification & Segmentation  
+
+**NLP & Chatbots:**  
+ DeepSeek API • Text Classification 
+
+**Data Science & Analysis:**  
+Pandas • NumPy • Matplotlib • Seaborn • Exploratory Data Analysis (EDA) • Feature Engineering  
+
+**Model Deployment:**  
+ FastAPI • Streamlit 
+
+**Tools & Workflow:**  
+Git • GitHub • Jupyter Notebook • VS Code • Google Colab • Docker (intro)  
+
+---
+
+### 🚀 Featured Projects
+- 🩺 [Diabetes Management Chatbot](link)
+- 
+- 
+- 
+
+
+---
+
+📫 **Reach Me:**  
+[LinkedIn](www.linkedin.com/in/khadiga-el-banhawy) • [Email](khadigahmed899@gmail.com)
